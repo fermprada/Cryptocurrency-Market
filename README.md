@@ -24,7 +24,9 @@ Vamos a realizar un pequeño análisis donde tomaremos las 10 criptomonedas más
 - USD Coin
 
 `A tener en cuenta`: 
-En el `EDA` encontraremos una tabla por cada moneda con los siguientes valores
+Dentro de este repositorio encontraremos un archivo 'csv' por cada moneda.
+
+En el `EDA` encontraremos una tabla por cada moneda con los siguientes valores:
 
 - snapped_at = Fecha y hora
 - price = Precio en dolares (USD)
@@ -33,3 +35,4 @@ En el `EDA` encontraremos una tabla por cada moneda con los siguientes valores
 
 ### **EDA (Exploratory Data Analysis)**
 
+Dentro del `EDA` podremos ver como hacemos una pequeña limpieza de datos, buscando valores nulos y/o duplicados y reemplazarlos según se considere, buscaremos Outliers o valores atípicos por cada DataFrame y nos adentraremos un poco en el por qué de estos valores, haremos una comparativa entre cada campo de los DataFrame y finalmente podremos ver los precios actuales de las monedas seleccionadas.
