@@ -24,7 +24,7 @@ Vamos a realizar un pequeño análisis donde tomaremos las 10 criptomonedas más
 - USD Coin
 
 `A tener en cuenta`: 
-Dentro de este repositorio encontraremos una carpeta 'csv´s' donde tenemos un csv por cada moneda elegida.
+Dentro de este repositorio encontraremos una carpeta donde tenemos un csv por cada moneda elegida.
 
 En el `EDA` encontraremos una tabla por cada moneda con los siguientes valores:
 
