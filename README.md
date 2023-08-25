@@ -6,7 +6,7 @@
 # **INTRODUCCION**
 
 Una criptomoneda es un activo digital que emplea un cifrado criptográfico para garantizar su titularidad y asegurar la integridad de las transacciones. Las criptomonedas se inventaron en 2009 con la creación de Bitcoin y han crecido en popularidad y cantidad desde entonces. 
-En este proyecto encontraremos 10 criptomonedas, que son las 10 más populares actualmente y haremos un análisis de cada una.
+En este proyecto encontraremos 10 criptomonedas, que son las más populares actualmente y haremos un análisis de cada una.
 
 ## *CONTEXTO DEL ANALISIS*
 
@@ -24,7 +24,7 @@ Vamos a realizar un pequeño análisis donde tomaremos las 10 criptomonedas más
 - USD Coin
 
 `A tener en cuenta`: 
-Dentro de este repositorio encontraremos un archivo 'csv' por cada moneda.
+Dentro de este repositorio encontraremos una carpeta 'csv´s' donde tenemos un csv por cada moneda elegida.
 
 En el `EDA` encontraremos una tabla por cada moneda con los siguientes valores:
 
@@ -50,7 +50,8 @@ Además, para este proyecto se plantearon 3 KPI´S (Key Performance Indicator) l
 
 ## **CONCLUSION**
 
-
+Para finalizar, podemos decir que el mercado de criptomonedas es altamente volátil y puede estar influenciado por una gran variedad de factores, cualquier evento, declaración o incluso rumor puede afectar a la volatilidad de las criptomonedas, provocando grandes movimientos de compras o ventas que, a su vez, originan una enorme fluctuación en sus valores. La oferta y la demanda también es otro de los factores que afectan a las monedas virtuales. Cuanta mayor sea la demanda de compra, más aumentará el precio de los criptoactivos. Por el contrario, cuanto más se vendan, mayor será la bajada de su valor.
+También, pudimos observar que aunque a día de hoy se han desarrollado todo tipo de criptoactivos, `Bitcoin` sigue siendo la moneda virtual por excelencia. Así, sus tendencias y evoluciones pueden influir en el mercado a nivel general.
 
 
 
