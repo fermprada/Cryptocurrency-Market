@@ -6,7 +6,7 @@
 # **INTRODUCCION**
 
 Una criptomoneda es un activo digital que emplea un cifrado criptográfico para garantizar su titularidad y asegurar la integridad de las transacciones. Las criptomonedas se inventaron en 2009 con la creación de Bitcoin y han crecido en popularidad y cantidad desde entonces. 
-En este proyecto encontraremos 10 criptomonedas, que son las 10 más populares actualmente y haremos un pequeño análisis de cada una.
+En este proyecto encontraremos 10 criptomonedas, que son las 10 más populares actualmente y haremos un análisis de cada una.
 
 ## *CONTEXTO DEL ANALISIS*
 
@@ -35,4 +35,25 @@ En el `EDA` encontraremos una tabla por cada moneda con los siguientes valores:
 
 ### **EDA (Exploratory Data Analysis)**
 
-Dentro del `EDA` podremos ver como hacemos una pequeña limpieza de datos, buscando valores nulos y/o duplicados y reemplazarlos según se considere, buscaremos Outliers o valores atípicos por cada DataFrame y nos adentraremos un poco en el por qué de estos valores, haremos una comparativa entre cada campo de los DataFrame y finalmente podremos ver los precios actuales de las monedas seleccionadas.
+Dentro del `EDA` podremos ver como hacemos una pequeña limpieza de datos, buscando valores nulos y/o duplicados y reemplazarlos según se considere, buscaremos Outliers o valores atípicos por cada DataFrame y nos adentraremos un poco en el por qué de estos valores, haremos una comparativa entre cada campo de los DataFrame y finalmente podremos ver los precios actuales en USD de las monedas seleccionadas.
+
+## **INFORME DE ANALISIS Y KPI´S**
+
+Al finalizar el `EDA` y durante la elaboracion del `Dashboard` pudimos conocer diferentes datos interesantes sobre las criptomonedas seleccionadas.
+
+Además, para este proyecto se plantearon 3 KPI´S (Key Performance Indicator) los cuales son:
+
+- `Volumen:` El volumen nos dice la cantidad de un activo que se está comprando o vendiendo en el mercado y es uno de los indicadores más importantes.
+- `Volatilidad:` La criptomoneda es volátil por naturaleza. La volatilidad mide las variaciones, los cambios de tendencia y/o las fluctuaciones de los precios de los activos financieros en algún tiempo determinado
+- `Valor de mercado:` El valor de las criptomonedas varía en función de la oferta, de la demanda y del compromiso de los usuarios.
+
+
+## **CONCLUSION**
+
+
+
+
+
+
+![GRACIAS](https://i.pinimg.com/originals/90/78/ea/9078ea1098fa363a445c0f38dde012d0.gif)
+
